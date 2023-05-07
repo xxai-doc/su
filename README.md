@@ -7,3 +7,4 @@ Kodeu hareup-tungtung situs wéb mangrupikeun sumber terbuka, wilujeng sumping p
 * [kode hareup-tungtung](https://github.com/xxai-art/web)
 * [Bungkusan basa pikeun situs sacara gembleng](https://github.com/xxai-art/web/tree/main/i18n)
 * [Bungkusan basa pikeun modul login](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Dokuméntasi Multilingual Website](https://github.com/xxai-doc)
